@@ -37,7 +37,7 @@
         "babel-cli": "^6.26.0",
         "babel-preset-latest": "^6.24.1",
         "browser-sync": "^2.26.3",
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.13.1",
         "onchange": "^5.2.0"
     },
     "dependencies": {
